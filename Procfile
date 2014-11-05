@@ -1,1 +1,1 @@
-web: gunicorn simply-python --log-file -
+web: gunicorn simply --log-file -
